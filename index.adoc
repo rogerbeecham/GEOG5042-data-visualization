@@ -1,0 +1,76 @@
+= GEOG50 | 32/42 : Data Visualization
+By <https://www.roger-beecham.com[Roger Beecham]>
+:docinfo1: menu-include.adoc
+:icons: font
+:source-highlighter: coderay
+:task: sidebar
+:aside: NOTE
+:stem: latexmath
+:fig: TIP
+:specification: source,R
+
+include::menu-include.adoc[]
+
+[cols="20%, 20%, 60%", width="90%"]
+|====
+|Mon 5th Nov| 1400-1530 | Lecture : Visualization Fundamentals
+|| _1530-1545_ | _Break_
+|| 1545-1630 | Lecture : Visualization Guidelines
+|----|----|----
+|Tue 6th Nov|0930-1230 | Lab : GIS, RBDM, Env Water Consultancy, Centre for Doctoral Training (CDT)
+|Wed 7th Nov|0930-1230| Lab : CAMS 1
+||_1330-1630_ | Lab : CAMS2, SSP, Data Science & Analytics
+|====
+
+'''
+
+[quote, Prof. Jim Hollan of UC San Diego]
+____
+Visualization is fundamental to meeting the unprecedented challenges and exploiting the wonderful opportunities of the ever-expanding deluge of data confronting virtually every field.
+____
+
+// [quote, Ben Shneiderman, University of Maryland]
+// ____
+// Like Galileo’s telescope (1564-1642), Hooke’s microscope (1635-1703), or Roentgen’s x-rays (1845-1923), new information analysis tools are creating visualizations of never before seen structures.
+//
+// Jupiter’s moons, plant cells and the skeletons of living creatures were all revealed by previous technologies.
+//
+// Today, new network science concepts and analysis tools are making isolated groups, influential participants, and community structures visible in ways never before possible.
+// ____
+
+[quote, Marek Kultys, Independent Designer]
+____
+Nowadays visualization is one of the key ways in which scientific discoveries and advances in collective understanding are made.
+Therefore, those scientists, researchers, data explorers, and analysts who rely in their everyday work on producing visualizations and generating images should have some acquaintance with the most rudimentary ABC of good design practice.
+____
+
+'''
+
+
+
+
+
+This week's session covers the fundamentals of Data Visualization, arguably _the_ core and fastest growing sub-discipline of Data Science. The materials introduce some key research from cognitive science, computer science and the geo-sciences that will help you interpret and create information-rich data graphics.
+
+By the end of the session, you will:
+
+* **Appreciate** core principles of data visualization design
+
+* Be able to **employ** these principles when critiquing graphics
+
+* **Create** effective data visualizations using software built on these principles
+
+
+Before the lecture, it would be beneficial to:
+
+* **Watch** Mariah Meyer's Tedx Talk on https://bit.ly/2LzXIDq[_Information Visualization for Scientific Discovery_]
+* **Skim read** Jeff Heer _et al's_ https://bit.ly/1SKK3YC[_A Tour through the Visualization Zoo_]
+* **Glance** through the link:resources.html[Resources] page
+
+Before the lab, you should:
+
+* **Work** through the link:tableau.html[Tableau] page
+
+
+---
+[small]#Content by http://www.roger-beecham.com[Roger Beecham] | 2018 | Licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons BY 4.0].#

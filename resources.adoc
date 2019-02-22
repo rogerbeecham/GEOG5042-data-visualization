@@ -1,0 +1,45 @@
+= GEOG50 | 42/32 : Data Visualization
+By <https://www.roger-beecham.com[Roger Beecham]>
+:docinfo1: menu-include.adoc
+:icons: font
+:source-highlighter: coderay
+:task: sidebar
+:aside: NOTE
+:stem: latexmath
+:fig: TIP
+:specification: source,R
+
+include::menu-include.adoc[]
+
+== Information Visualization Blogs
+
+* https://eagereyes.org[eagereyes] -- Robert Kosara's influential blog. Kosara is Senior Research Scientist at Tableau Research and previously Associate Professor of Computer Science at UNC Charlotte.
+* http://flowingdata.com[flowingdata] -- Nathan Yau, a former statistics PhD from UCLA, has maintained a data vis blog and online training materials for some time.
+* https://blog.datawrapper.de[chartable] -- A blog written by people at https://www.datawrapper.de[Datawrapper], a visualization tool aimed at those publishing online content.
+* http://datastori.es[data stories] -- Podcast series led by http://enrico.bertini.io[Enrico Bertini] and http://truth-and-beauty.net[Moritz Stefaner].
+* http://robertradburn.co.uk[adventures in viz] -- Rob Radburn's blog, featuring numerous excellent visual data analyses using Tableau, often with a geographic flavour. 
+
+== Conferences
+
+* http://ieeevis.org/year/2018/welcome[IEEE VIS] -- _The_ conference at which leading Data Visualization work is published through a special issue of https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945[Transactions on Visualization & Computer Graphics].
+
+* http://www.openvisconf.com[OpenVis Conf] -- New, exciting conference. Presenters are academics and practitioners work at the leading-edge of data visualization. Videos of talks from previous conferences are published online. From the 2018 conference, I'd recommend Matt Kay's on https://www.youtube.com/watch?v=vqzO-9LSoG4&feature=youtu.be[Uncertainty Visualization], Maarten Lambrechts' https://www.youtube.com/watch?v=fp-WNqaQG0s&feature=youtu.be[Xenographics] and Heather Krause's https://www.youtube.com/watch?v=uw1Tag08dK4&feature=youtu.be[F-Word].
+
+== Readings
+
+* Heer, J., Bostock M. & Ogievetsky, V. (2010) https://queue.acm.org/detail.cfm?id=1805128[A tour through the visualization zoo]. An excellent introduction to the DNA of data graphics -- the mappings between visual characteristics and properties of data that define particular 'species' of visualization. Changing these mappings results in different graphic types : bar chart, scatter plot, pie chart, etc..
+
+* Jones, B. (2014) http://shop.oreilly.com/product/0636920030942.dop[Communicating Data with Tableau],  _O'Reilly_. I don't actually know this book, but colleagues have recommended it. Certainly worth considering if you are to continue working with Tableau.
+
+* Meirelles, I. (2013) http://isabelmeirelles.com/book-design-for-information/[Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations]. Contains excellent examples and advice on designing graphics. The explanations of principles developed from knowledge of perception and cognition are especially good.
+
+* Meyer, M. & Fisher, D. (2018) http://shop.oreilly.com/product/0636920041320.do[Making Data Visual], _O'Reilly_. I've only read a sample chapter, but it's written by highly respected InfoVis profs and has a great ambition: _If you’re a data scientist trying to navigate the murky space between data and insight, this practical book shows you how to make sense of your data through high-level questions, well-defined data analysis tasks, and visualizations to clarify understanding and gain insights along the way._
+
+* Munzner, T. (2014) https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910[Visualization Analysis & Design], _CRC Press_. Tamara Munzner, Professor of Information Visualization at University of British Columbia, provides a systematic and empirically-grounded framework for thinking about visualization. Available as an e-book via the University of Leeds Library. Chapters 2 and 5 are worth special consideration.
+
+* Tufte, E. (2001), https://www.edwardtufte.com/tufte/books_vdqi[The Visual Display of Quantitative Information], Graphics Press, Cheshire, Connecticut. Often seen as *the* go-to explanation and demonstration of graphical excellence. It's a collection of the good (and bad) in graphics with explanations of key principles that can help you achieve the former and avoid the latter. Definitely worth reading Tufte's thoughts on _chart junk_, _data-ink ratio_, the _lie-factor_ and also some of his re-designs.
+
+
+
+---
+[small]#Content by http://www.roger-beecham.com[Roger Beecham] | 2018 | Licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons BY 4.0].#

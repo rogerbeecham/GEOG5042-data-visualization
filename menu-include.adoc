@@ -1,0 +1,16 @@
+// menu-include.adoc
+
+// Define macros for each HTML file referenced in the menu
+:home: index.html[Home]
+:resources: resources.html[Resources]
+:tableau: tableau.html[Tableau]
+:lecture: lecture.html[Lecture]
+:practical: practical.html[Practical]
+
+// Create the menu as an AsciiDoc table, css class name in brackets
+[.main-menu]
+* link:{home}
+* link:{resources}
+* link:{tableau}
+* link:{lecture}
+* link:{practical}
